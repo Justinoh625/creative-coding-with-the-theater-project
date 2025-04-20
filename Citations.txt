@@ -1,0 +1,13 @@
+Images: 
+Defensive Specialist: https://www.latimes.com/sports/story/2023-05-01/long-beach-state-volleyball-mason-briggs-star-libero
+Outside Hitter: https://gomatadors.com/sports/mens-volleyball/roster/hank-kaufman/6436
+Libero: https://dailybruin.com/2024/03/06/can-ucla-mens-volleyball-solve-its-libero-problem-before-ncaas
+Middle Blocker: https://dailybruin.com/2014/02/05/ucla-mens-volleyball-zoned-in-for-matchup-with-no-3-pepperdine
+Opposite Hitter: https://dailytrojan.com/2022/02/23/standout-players-lead-mens-volleyball-hot-start/
+Serving Specialist: https://dailybruin.com/2022/05/04/mens-volleyball-preps-for-ncaa-tournament-semifinal-vs-long-beach-state
+Setter: YouTube thumbnail from Epic Volleyball - Simeon Nikolov: The 17-Year-Old Setter Sensation in Volleyball
+
+ChatGPT:
+-It came up with the idea to use a boolean to check if the user inputted a valid input or not, helping with the segment where it would display a message if the user inputted an invalid position.
+-Helped with the getImageName method as I was having trouble displaying the specific image for each position
+-Came up with the idea of the subclass being the special position
